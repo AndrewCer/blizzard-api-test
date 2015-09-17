@@ -1,2 +1,2 @@
-# blizzard-api-test
-# blizzard-api-test
+# Blizzard OAuth API test
+Playing with blizzards api and OAuth
